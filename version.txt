@@ -1,0 +1,6 @@
+------------------------------------
+Version    : 0.0.1
+Owner      : Enes Can Türkoğlu
+Date       : 2026-02-15
+Information: Initial release. I made telegrambot with ChatGPT and Antigravity(cloude sonnet).   
+------------------------------------
